@@ -45,22 +45,17 @@ install.packages("ggplot2")
 ## 📷 Visualizations
 
 ### 🔹 Histogram (Numeric Variable)
-
-![Histogram - Flipper Length](figures/hist_flipper.png)
+![Histogram - Flipper Length](figures/2.png)
 
 ### 🔹 Bar Chart (Categorical Variable)
-
-![Bar Chart - Sex](figures/bar_sex.png)
+![Bar Chart - Sex](figures/3.png)
 
 ### 🔹 Scatter Plot (Colored by Species)
-
-![Scatter Plot - Body Mass vs Culmen Length](figures/scatter_bodymass_culmen.png)
+![Scatter Plot - Body Mass vs Culmen Length](figures/111.png)
 
 ### 🔹 Violin & Box Plot (Grouped by Species)
+![Violin Plot - Culmen Depth](figures/vio1.png)
 
-![Violin Plot - Culmen Depth](figures/violin_culmen_depth.png)
-
-> 📁 Place all images inside a `figures/` folder in your GitHub repo.
 
 ---
 
