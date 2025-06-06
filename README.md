@@ -48,25 +48,17 @@ install.packages("ggplot2")
 ![Histogram - Flipper Length](figures/2.png)
 
 ### 🔹 Bar Chart (Categorical Variable)
-![Bar Chart - Sex](figures/3.png)
+![Bar Chart - Sex](figures/11.png)
 
 ### 🔹 Scatter Plot (Colored by Species)
-![Scatter Plot - Body Mass vs Culmen Length](figures/111.png)
+![Scatter Plot - Body Mass vs Culmen Length](figures/100.png)
 
 ### 🔹 Violin & Box Plot (Grouped by Species)
-![Violin Plot - Culmen Depth](figures/vio1.png)
+![Violin Plot - Culmen Depth](figures/vio3.png)
 
 
 ---
 
-📷 Visualizations
-🔹 Histogram (Numeric Variable)
-
-🔹 Bar Chart (Categorical Variable)
-
-🔹 Scatter Plot (Colored by Species)
-
-🔹 Violin & Box Plot (Grouped by Species)
 
 ## ▶️ How to Run
 
