@@ -59,6 +59,15 @@ install.packages("ggplot2")
 
 ---
 
+📷 Visualizations
+🔹 Histogram (Numeric Variable)
+
+🔹 Bar Chart (Categorical Variable)
+
+🔹 Scatter Plot (Colored by Species)
+
+🔹 Violin & Box Plot (Grouped by Species)
+
 ## ▶️ How to Run
 
 1. Install required R packages
