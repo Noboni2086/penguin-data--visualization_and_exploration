@@ -50,15 +50,15 @@ install.packages("ggplot2")
 
 ### 🔹 Bar Chart (Categorical Variable)
 **Bar Chart - Sex**  
-![Bar Chart - Sex](figures/3.png)
+![Bar Chart - Sex](figures/11.png)
 
 ### 🔹 Scatter Plot (Colored by Species)
 **Scatter Plot - Body Mass vs Culmen Length**  
-![Scatter Plot - Body Mass vs Culmen Length](figures/111.png)
+![Scatter Plot - Body Mass vs Culmen Length](figures/100.png)
 
 ### 🔹 Violin & Box Plot (Grouped by Species)
 **Violin Plot - Culmen Depth**  
-![Violin Plot - Culmen Depth](figures/vio1.png)
+![Violin Plot - Culmen Depth](figures/vio3.png)
 
 ---
 
