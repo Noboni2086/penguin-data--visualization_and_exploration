@@ -1,7 +1,5 @@
 
-# penguin-data-visualization_and_exploration
-
-# 🐧 Penguin Data Visualization & Statistical Analysis (R)
+# 🐧 penguin data visualization and exploration (R)
 
 This project performs exploratory data analysis and statistical testing on the [Palmer Archipelago (Antarctica) Penguin Dataset](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data) using R.
 
